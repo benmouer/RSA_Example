@@ -1,6 +1,4 @@
 /*Benjamin Mouer
- * CSC 222
- * HW 1
  */
 
 
